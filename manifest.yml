@@ -15,4 +15,4 @@ applications:
       DATA_SERVICE_NAME: "postgres"
       DB_CONNECTION_POOL_MIN: 2
       DB_CONNECTION_POOL_MAX: 10
-      TRUSTED_ISSUERS: https://a99b7fee-a495-4161-89c3-faa83054627d.predix-uaa.run.asv-pr.ice.predix.io/oauth/token
+      TRUSTED_ISSUERS: https://xxx.run.asv-pr.ice.predix.io/oauth/token
