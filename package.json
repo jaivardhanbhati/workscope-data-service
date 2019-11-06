@@ -19,7 +19,7 @@
     "bookshelf": "^0.10.1",
     "db-migrate": "^0.10.0-beta.16",
     "db-migrate-pg": "^0.1.10",
-    "debug": "~2.2.0",
+    "debug": "~4.1.1",
     "express": "~4.13.1",
     "express-bearer-token": "^2.1.0",
     "helmet": "^2.0.0",
