@@ -1,0 +1,31 @@
+{
+  "postgres": [
+    {
+      "credentials": {
+        "uri": "dburi"
+      },
+      "label": "postgres",
+      "name": "aviation-workscope-postgres"
+    }
+  ],
+  "user-provided": [
+    {
+      "credentials": {
+        "acsUri": "https://test.acs.predix.io",
+        "trusted_issuers": [
+          "https://test.uaa.predix.io/oauth/token"
+        ],
+        "uaa": {
+          "clientId": "testClient",
+          "clientSecret": "testSecret",
+          "uri": "https://test.uaa.predix.io/oauth/token"
+        },
+        "zoneId": "test-zone-id"
+      },
+      "label": "user-provided",
+      "name": "test-acs-config",
+      "syslog_drain_url": "",
+      "tags": []
+    }
+  ]
+}

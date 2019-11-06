@@ -1,0 +1,245 @@
+{
+  "inspection_instructions": {
+  "instructions": [
+	{
+	  "title": "Boroscope Requirements Incoming",
+	  "basicRequirement": [
+		{
+		  "name": "HPC",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Combustor",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "HPT",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "LPT",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Other",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Comments",
+		  "type": "freetext",
+		  "value": ""
+		}
+	  ],
+	  "additionalRequirement": [
+		{
+		  "name": "Photos",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Video: Fault",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Video: Full",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Video: Other",
+		  "type": "boolean",
+		  "value": false
+		}
+	  ]
+	},
+	{
+	  "title": "Boroscope Requirements Outgoing",
+	  "basicRequirement": [
+		{
+		  "name": "HPC",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Combustor",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "HPT",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "LPT",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Other",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Comments",
+		  "type": "freetext",
+		  "value": ""
+		}
+	  ],
+	  "additionalRequirement": [
+		{
+		  "name": "Photos",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Video: Fault",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Video: Full",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Video: Other",
+		  "type": "boolean",
+		  "value": false
+		}
+	  ]
+	},
+	{
+	  "title": "Health Check Requirements",
+	  "basicRequirement": [
+		{
+		  "name": "Fuel Filter",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Oil Filter",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "A Sump MCD",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "B Sump MCD",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "C Sump MCD",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Starter MCS",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "IDG Filter",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "AGB Screen",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "TGB Screen",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Comments",
+		  "type": "freetext",
+		  "value": ""
+		}
+	  ]
+	},
+	{
+	  "title": "Test Requirements",
+	  "basicRequirement": [
+		{
+		  "name": "Performance Test",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Break-In",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Vibration Survey",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "LP Rotor Trim Balance",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Acceleration Test",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Oil Con Run",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Oil Cleanliness",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Core Wash",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Engine Preservation",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Test On-Wing",
+		  "type": "boolean",
+		  "value": false
+		},
+		{
+		  "name": "Engine Oil Type",
+		  "type": "text",
+		  "value": ""
+		},
+		{
+		  "name": "CIS Fuels",
+		  "type": "text",
+		  "value": ""
+		},
+		{
+		  "name": "Comments",
+		  "type": "freetext",
+		  "value": ""
+		}
+	  ]
+	}
+  ]
+}
+}

@@ -1,0 +1,33 @@
+{
+  "workscopes": [{
+    "id": "1",
+    "version": "1",
+    "esn": "123456",
+    "title": "workscope title1",
+    "engine_details": null,
+    "health_instructions": {
+      "health": "yay"
+    },
+    "engine_modules": {
+      "family": "GE90",
+      "hierarchy": {}
+    },
+    "links": [],
+    "maintenance_reference": [],
+    "status": "DRAFT",
+    "created_by": "Divya",
+    "created_date": "2016-09-22T18:07:36.011Z",
+    "last_modified_by": "Divya",
+    "last_modified_date": "2016-09-22T18:07:36.011Z",
+    "WorkscopeAudit": [
+      {
+        "id": "1",
+        "workscope_id": "1",
+        "workscope_version": "1",
+        "user_action": "PUT",
+        "modified_by": "Ben",
+        "modified_date": "2016-09-22T18:07:36.060Z"
+      }
+    ]
+  }]
+}

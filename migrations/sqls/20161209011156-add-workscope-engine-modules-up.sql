@@ -1,0 +1,1 @@
+ALTER TABLE WORKSCOPE ADD ENGINE_MODULES JSON;/* Replace with your SQL commands */

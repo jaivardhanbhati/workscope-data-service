@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "version": 1,
+  "esn": "12345",
+  "title": "workscope title3",
+  "maintenance_reference": [
+	{
+	  "maintenanceTrackingReference": "Booster",
+	  "id": "1234",
+	  "revision": "123"
+	},
+	{
+	  "maintenanceTrackingReference": "AGB",
+	  "id": "1235",
+	  "revision": "124"
+	},
+	{
+	  "maintenanceTrackingReference": "",
+	  "id": "",
+	  "revision": ""
+	}
+  ],
+  "links" : [
+	{
+	  "url": "https://test.com",
+	  "description": "test"
+	}
+  ],
+  "health_instructions": {"testHealth": "test"},
+  "engine_modules": {
+    "family": "GE90",
+    "hierarchy": {}
+  }
+}
